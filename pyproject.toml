@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rpst"
+version = "0.0.1"
+description = "Dummy package for Reddit Post Scraping Tool (RPST)"
+readme = "README.md"
+keywords = ["reddit-crawler", "reddit-scraping", "reddit", "reddit-api"]
+authors = [{name = "Richard Mwewa", email = "rly0nheart@duck.com"}]
+classifiers = [
+  "Development Status :: 7 - Inactive",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Visual Basic",
+  "Intended Audience :: End Users/Desktop",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent",
+  "Natural Language :: English"
+]
+
+dependencies = ["reddit-post-scraping-tool"]
+
+[project.urls]
+homepage = "https://pypi.python.org/pypi/reddit-post-scraping-tool"
