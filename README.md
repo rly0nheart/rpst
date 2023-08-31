@@ -1,3 +1,5 @@
+![reddit](https://github.com/rly0nheart/rpst/assets/74001397/2319c269-0264-4a7b-9687-dbe92a1841c6)
+
 # Reddit Post Scraping Tool (RPST)
 This is a dummy package managed by the developer of **Reddit Post Scraping Tool** to prevent name squatting. The official PyPI Package/GitHub Repository name of the tool is [reddit-post-scraping-tool](https://pypi.python.org/pypi/reddit-post-scraping-tool). This package ensures that if you run `pip install rpst` knowingly or by mistake you will end up with `reddit-post-scraping-tool`, which can then be called with `rpst` (e.g `rpst --help`).
 ***
