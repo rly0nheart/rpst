@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rpst"
-version = "0.0.1"
+version = "0.0.2"
 description = "Dummy package for Reddit Post Scraping Tool (RPST)"
 readme = "README.md"
 keywords = ["reddit-crawler", "reddit-scraping", "reddit", "reddit-api"]
